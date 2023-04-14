@@ -1,5 +1,5 @@
 # biggy
 
-2d platformer
+2d colorful platformer 
 
 
